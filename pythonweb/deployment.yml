@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: helloweb
-        image: fidxor/pythonweb:5
+        image: fidxor/pythonweb:11
         ports:
         - containerPort: 8888
